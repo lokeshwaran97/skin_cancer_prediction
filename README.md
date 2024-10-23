@@ -64,5 +64,5 @@ The model is comprised of two branches:
 - **Training Execution**: Model training is conducted over defined epochs, observing class weights to address imbalance, and monitors the best validation AUC.
 
 ## Inference
-Upon training completion, The model achives a training accuracy of about 90%
+Upon training completion, The model achives a training accuracy of about 92%
 
